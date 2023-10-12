@@ -10,7 +10,7 @@
     position: absolute;
     background-color: #0170b9;
     width: 683px;
-    height: 500px;
+    height: 510px;
     top: 200px;
 }
 .is{
@@ -156,9 +156,10 @@ h1{
     position: absolute;
     top: 370px;
     left: 30px;
-    right: 850px;
-    font-size: 20px;
+    right: 750px;
+    font-size: 22px;
     color: white;
+    font-weight: 500;
 }
 .litline{
     background-color: white;
@@ -174,4 +175,434 @@ h1{
     width: 600px;
     right: 100px;
     box-shadow: 0 0 5px black;
+}
+.photo1{
+    position: absolute;
+    top: 1000px;
+    width: 350px;
+    left: 100px;
+}
+.photo2{
+    position: absolute;
+    top: 1050px;
+    width: 350px;
+    left: 500px;
+}
+.photo3{
+    position: absolute;
+    top: 1000px;
+    width: 350px;
+    left: 900px;
+}
+.col{
+    position: absolute;
+    top: 795px;
+    left: 650px;
+    width: 45px;
+}
+.line3{
+    position: absolute;
+    background-color: #0170b9;
+    top: 822px;
+    width: 500px;
+    height: 4px;
+    left: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.line4{
+    position: absolute;
+    background-color: #0170b9;
+    top: 822px;
+    width: 500px;
+    height: 4px;
+    right: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.minblock{
+    position: absolute;
+    border: 5px solid #0170b9;
+    top: 200px;
+    right: 70px;
+    width: 180px;
+    height: 1px;
+}
+.minblock2{
+    position: absolute;
+    border: 5px solid #0170b9;
+    top: 200px;
+    right: 70px;
+    height: 180px;
+    width: 1px;
+}
+.minblock3{
+    position: absolute;
+    border: 5px solid #0170b9;
+    top: 530px;
+    right: 70px;
+    height: 180px;
+    width: 1px;
+}
+.minblock4{
+    position: absolute;
+    border: 5px solid #0170b9;
+    top: 700px;
+    right: 70px;
+    width: 180px;
+    height: 1px;
+}
+.block{
+    position: absolute;
+    background-color: #0170b9;
+    top: 1233px;
+    width: 350px;
+    height: 100px;
+    left: 100px;
+}
+.block2{
+    position: absolute;
+    background-color: #0170b9;
+    top: 1283px;
+    width: 350px;
+    height: 100px;
+    left: 500px;
+}
+.block3{
+    position: absolute;
+    background-color: #0170b9;
+    top: 1233px;
+    width: 350px;
+    height: 100px;
+    left: 900px;
+}
+.rol{
+    position: absolute;
+    top: 3000px;
+}
+.minline1{
+    position: absolute;
+    border: 5px solid #0170b9;
+    top: 970px;
+    left: 70px;
+    width: 100px;
+    height: 1px;
+}
+.minline2{
+    position: absolute;
+    border: 5px solid #0170b9;
+    top: 970px;
+    left: 70px;
+    width: 1px;
+    height: 100px;
+}
+.minline3{
+    position: absolute;
+    border: 5px solid #0170b9;
+    top: 1433px;
+    right: 70px;
+    width: 100px;
+    height: 1px;
+}
+.minline4{
+    position: absolute;
+    border: 5px solid #0170b9;
+    top: 1333px;
+    right: 70px;
+    width: 1px;
+    height: 100px;
+}
+.text1{
+    position: absolute;
+    top: 1250px;
+    left: 100px;
+    right: 900px;
+    text-align: center;
+    font-size: 19px;
+    color: white;
+}
+.text2{
+    position: absolute;
+    top: 1300px;
+    left: 500px;
+    right: 500px;
+    text-align: center;
+    font-size: 19px;
+    color: white;
+}
+.text3{
+    position: absolute;
+    top: 1250px;
+    left: 900px;
+    right: 100px;
+    text-align: center;
+    font-size: 19px;
+    color: white;
+}
+.zag{
+    position: absolute;
+    top: 900px;
+    color: #0170b9;
+    left: 330px;
+    font-size: 33px;
+}
+.line5{
+    position: absolute;
+    background-color: #0170b9;
+    top: 1500px;
+    width: 500px;
+    height: 4px;
+    left: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.line6{
+    position: absolute;
+    background-color: #0170b9;
+    top: 1500px;
+    width: 500px;
+    height: 4px;
+    right: 100px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.cap{
+    position: absolute;
+    top: 1480px;
+    left: 650px;
+    width: 45px;
+}
+.bigblock1{
+    position: absolute;
+    top: 1550px;
+    left: 100px;
+    width: 350px;
+    height: 400px;
+    background-color: #0170b9;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.bigblock2{
+    position: absolute;
+    top: 1550px;
+    left: 500px;
+    width: 350px;
+    height: 400px;
+    background-color: #0170b9;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.bigblock3{
+    position: absolute;
+    top: 1550px;
+    left: 900px;
+    width: 350px;
+    height: 400px;
+    background-color: #0170b9;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.tk{
+    position: absolute;
+    top: 1680px;
+    left: 100px;
+    right: 900px;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+}
+.tk1{
+    position: absolute;
+    top: 1870px;
+    left: 100px;
+    right: 900px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-weight: 400;
+}
+.bred{
+    position: absolute;
+    top: 1570px;
+    left: 220px;
+    width: 100px;
+}
+.bezalc{
+    position: absolute;
+    top: 1680px;
+    left: 500px;
+    right: 500px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.bezalc1{
+    position: absolute;
+    top: 1870px;
+    left: 500px;
+    right: 500px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-weight: 400;
+}
+.beer{
+    position: absolute;
+    top: 1570px;
+    left: 630px;
+    width: 90px;
+}
+.bd{
+    position: absolute;
+    top: 1680px;
+    left: 920px;
+    right: 120px;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+}
+.bd1{
+    position: absolute;
+    top: 1870px;
+    left: 910px;
+    right: 110px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-weight: 400;
+}
+.money{
+    position: absolute;
+    top: 1570px;
+    left: 1025px;
+    width: 90px;
+}
+.bigblock4{
+    position: absolute;
+    top: 2000px;
+    left: 100px;
+    width: 350px;
+    height: 400px;
+    background-color: #0170b9;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.bigblock5{
+    position: absolute;
+    top: 2000px;
+    left: 500px;
+    width: 350px;
+    height: 400px;
+    background-color: #0170b9;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.bigblock6{
+    position: absolute;
+    top: 2000px;
+    left: 900px;
+    width: 350px;
+    height: 400px;
+    background-color: #0170b9;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+.web{
+    position: absolute;
+    top: 2160px;
+    left: 100px;
+    right: 900px;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+}
+.web1{
+    position: absolute;
+    top: 2300px;
+    left: 100px;
+    right: 900px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-weight: 400;
+}
+.pk{
+    position: absolute;
+    top: 2035px;
+    left: 225px;
+    width: 100px;
+}
+.op{
+    position: absolute;
+    top: 2160px;
+    left: 500px;
+    right: 500px;
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+.op1{
+    position: absolute;
+    top: 2300px;
+    left: 500px;
+    right: 500px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-weight: 400;
+}
+.pov{
+    position: absolute;
+    top: 2035px;
+    left: 630px;
+    width: 90px;
+}
+.buh{
+    position: absolute;
+    top: 2160px;
+    left: 920px;
+    right: 120px;
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    font-weight: 600;
+}
+.buh1{
+    position: absolute;
+    top: 2300px;
+    left: 910px;
+    right: 110px;
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    font-weight: 400;
+}
+.audit{
+    position: absolute;
+    top: 2035px;
+    left: 1020px;
+    width: 90px;
 }
